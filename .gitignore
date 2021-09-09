@@ -1,2 +1,5 @@
-build/
-node_modules/
+/node_modules/
+/build/
+/migrations/
+
+truffle-config.js

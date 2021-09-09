@@ -1,6 +1,6 @@
-# Pancake Router
+# WAGYU Router
 
-### Bsc-Test
+### VELAS-Test
 
 The following assumes the use of `node@>=10`.
 
